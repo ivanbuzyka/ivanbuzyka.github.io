@@ -21,7 +21,7 @@ defaults:
     values:
       layout: "post"
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
 future: true
 plugins:
   - jekyll-seo-tag
