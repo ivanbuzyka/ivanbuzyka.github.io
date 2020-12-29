@@ -4,7 +4,7 @@ title: Hello World
 
 Below is some test syntax
 
-```PowerShell
+```
 param(	[string] $ResourceGroupName = "rgname",	
 	[string] $WebAppName = "webappname",
 	[string] $StorageAccountSasUrl = "",
