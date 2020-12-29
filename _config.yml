@@ -19,7 +19,7 @@ defaults:
     values:
       layout: "post"
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 future: true
 plugins:
   - jekyll-seo-tag
