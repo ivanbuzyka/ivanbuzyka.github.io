@@ -4,6 +4,14 @@ author:
   name: "Ivan Buzyka"
   url: "https://buzyka.de"
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
 theme: jekyll-theme-hacker
 future: true
 plugins:
