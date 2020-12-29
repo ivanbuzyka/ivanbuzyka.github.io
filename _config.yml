@@ -1,8 +1,6 @@
 title: Buzyka's tech blog
 description: "tech stuff that is worth sharing"
-author:
-  name: "Ivan Buzyka"
-  url: "https://buzyka.de"
+author: "Ivan Buzyka"
 
 source: .
 destination: ./_site
