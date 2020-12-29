@@ -1,10 +1,8 @@
 title: Buzyka's tech blog
-description: "a beginner's journey in tech"
+description: "tech stuff that is worth sharing"
 author:
   name: "Ivan Buzyka"
   url: "https://buzyka.de"
-
-baseurl: /
 
 source: .
 destination: ./_site
