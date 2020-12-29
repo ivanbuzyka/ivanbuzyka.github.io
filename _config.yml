@@ -1,4 +1,12 @@
 title: Buzyka's tech blog
+description: "a beginner's journey in tech"
+author:
+  name: "Ivan Buzyka"
+  url: "https://buzyka.de"
+
 theme: jekyll-theme-hacker
+future: true
 plugins:
   - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
