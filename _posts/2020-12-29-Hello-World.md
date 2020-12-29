@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Hello World
-date: 2020-12-29 11:45:00 +0100
-categories: Sitecore
 ---
+
 Below is some test syntax
 
 ```PowerShell
