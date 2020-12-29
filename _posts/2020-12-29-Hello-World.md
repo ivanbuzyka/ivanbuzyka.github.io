@@ -1,6 +1,5 @@
 ---
 layout: post
-title: You're up and running!
 date: 2020-12-29 11:45:00 +0100
 categories: Sitecore
 ---
