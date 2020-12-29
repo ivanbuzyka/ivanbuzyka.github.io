@@ -1,11 +1,9 @@
 ---
 layout: post
+title: Hello World
 date: 2020-12-29 11:45:00 +0100
 categories: Sitecore
 ---
-
-## Hey, this is a new thing!
-
 Below is some test syntax
 
 ```PowerShell
