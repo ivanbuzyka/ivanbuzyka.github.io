@@ -4,6 +4,8 @@ author:
   name: "Ivan Buzyka"
   url: "https://buzyka.de"
 
+baseurl: /
+
 defaults:
   -
     scope:
